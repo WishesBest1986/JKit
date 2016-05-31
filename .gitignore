@@ -1,0 +1,8 @@
+*.iml
+.idea
+target
+rebel.xml
+rebel-remote.xml
+src/main/webapp/uploads/attach/*
+!src/main/webapp/uploads/attach/index.html
+.DS_Store
